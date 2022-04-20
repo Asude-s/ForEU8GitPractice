@@ -3,5 +3,6 @@ public class Hat {
 /*
 I can make what I want
  */
+
     }
 }
